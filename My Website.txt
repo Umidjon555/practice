@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Famous Places Of Uzbekistan</title>
+</head>
+<body>
+	<h1><strong>Article</strong></h1>
+	<h1><strong>Famous Places Of Uzbekistan</strong></h1>
+	<h2><strong>Contents</strong></h2>
+	<ul>
+		<li><h3>Imom Buxoriy Maqbarasi</h3></li>
+		<li><h3>Toshkent Teleminorsi</h3></li>
+		<li><h3>Ichan Qal'a</h3></li>
+		<li><h3>Amir Temur Maqbarasi</h3></li>
+	</ul>
+	<br>
+	<br>
+	<br>
+	<h2 align="center"><strong><em>Imom al-Buxoriy Maqbarasi</em></strong></h2>
+	<img src="Buxoriy.jpg" alt="Picture of Imom Buxoriy" width="50%" height="50%" align="center">
+	<p>Imom al-Buxoriy ziyoratgoh majmuasi Samarqand viloyatida joylashgan qadimiy memoriy yodgorliklardan biri, Islom olamida juda katta hurmat bilan tilga olinadigan Imom al-Buxoriyning qabrlari joylashgan ziyoratgohdir.Majmua Samarqand viloyatining Hartang qishlogʻida joylashgan fayzli maskan hisoblanadi. Majmuaning oldingi yani oʻn oltinchi asrdagi koʻrinishida bir kichik maqbara uning oldida masjid va hovliga bir necha daraxtlar ekilib qoʻyilgan boʻlgan. Keyinchalik 1997- yil 28-aprelda Oʻzbekiston Respublikasi vazirlar maxkamasi tomonidan chiqarilgan qonun asosida Imom al-Buxoriyning hijriy 1225 yilligini koʻtarinki kayfiyatda nishonlashni tashkil etish haqidagi qaroriga asosan majmua butunlay qayta taʼmirlandi va qoʻshimcha yodigorlik majmuasi qurilgan.Imom al- Buxoriy oʻz umrini ilm oʻrganish uchun sarflagan buyuk va ulugʻ ulamolardan biridir, ularni ishlarini yanada koʻproq oʻrganish va ular yotgan zioratgohlarni obodonlashtirish ishlari olib borildi. Imom al-Buhoringning eski ziyoratgohi oʻrnida yangi majmua 1998-yilda qurib bitkazildi..<a href="https://uz.wikipedia.org/wiki/Imom_Buxoriy_majmuasi" target="_blank">Read more</a></p>
+	
+	
+	
+	<br>
+	<br>
+	<br>
+	<h2 align="center"><strong><em>Toshkent Teleminorsi</em></strong></h2>
+	<img src="teleminora.jpg" alt="Toshkent Teleminorasi" width="50%" height="100%">
+	<p>Toshkent teleminorasi Ismail tomonidan qurilgan Oʻrta Osiyodagi eng baland binodir. Uning balandligi 375 metrdir. Rasmiy tilda Toshkent teleminorasi H-375m obyekti deb ataladi. Teleminora 1978-yildan boshlab, 6 yil davomida qurib bitilgan. 1985-yilning 15 yanvarida ishga tushirilgan<a href="https://uz.wikipedia.org/wiki/Toshkent_teleminorasi" target="_blank">Read More</a></p>
+
+	<br>
+	<br>
+	<br>
+	<h2 align="center"><strong><em>Ichan Qal'a</em></strong></h2>
+	<img src="ichan.jpg" alt="ichan-qala" width="50%" height="100%">
+	<p>Ichan qalʼa — Oʻrta Osiyodagi yirik va noyob meʼmoriy yodgorlik. Xivaning ichki qalʼa (Shahriston) qismi. I.q. shaharning Dishan qalʼa (tashqi qalʼa) qismidan kungurador devor bilan ajratilgan. U Xiva raboti (Dishan qalʼa)dan baland qoʻrgʻontepaga oʻxshab koʻrinadi. I.q.ga 4 darvoza (Bogʻcha dar-voza, Polvon darvoza, Tosh darvoza, Ota darvoza)dan kirilgan.Xorazm xalq meʼmorligining ajoyib obidalari: madrasa, masjid, saroy va minoralar, asosan, I. q.da. Undagi meʼmoriy yodgorliklarning yara-tilish tarixi, asosan, 4 davrga taal-luqli: birinchisi Xorazmning qad. davridan to moʻgʻullar istilosi davriga qadar, bu davrdan Koʻqna arkning gʻarbiy devori, qalʼa devorining shim.sharqiy burchagidagi qad. davrga mansub burj va qalʼa devori qoddiqlari saklanib qolgan.<a href="https://meros.uz/object/ichan-qala" target="_blank">Read more</a></p>
+
+	<br>
+	<br>
+	<br>
+	<h2 align="center"><strong><em>Amir Temur Maqbarasi</em></strong> </h2>
+	<img src="amir_temur.jpg" alt="Amir Temur Maqbarasi" width="50%" height="100%">
+	<p>Goʻri Amir yoki Amir Temur maqbarasi (14-asr oxiri — 1405-yil) — Samarqanddagi meʼmoriy yodgorlik. Xalq orasida Goʻri Amir yoki Goʻri Mir (Mir Sayyid Baraka) deb nomlanib kelinadi. Maqbaraga temuriylar sulolasiga mansub kishilar (Amir Temur, uning piri Mir Sayyid Baraka, oʻgʻillari Umar-shayx, Mironshoh va Shohrux, nabiralari Muhammad Sulton, Ulugʻbek va boshqalar) dafn etilgan. Boburning taʼkidlashicha, dastlab Temurning nabirasi Muhammad Sulton Mirzo Samarqand qalʼasi jan.da Toshqoʻrgʻon — chaqarda Madrasa qurdirgan. Muhammad Sulton halok boʻlgach (1403), Amir Temur uning xotirasiga maqbara qurish haqida farmon berdi. Maqbara Madrasa hovlisining toʻriga bunyod etilgan.<a href="https://uz.wikipedia.org/wiki/Go%CA%BBri_Amir" target="_blank">Read More</a></p>
+	<footer>
+		<ul>
+			<li><a href="#">Telegram</a></li>
+			<li><a href="#">Instagram</a></li>
+			<li><a href="#">Faacebook</a></li>
+			<li><a href="#">Whatsapp</a></li>
+		</ul>
+	</footer>
+</body>
+</html>
